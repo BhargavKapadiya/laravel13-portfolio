@@ -10,8 +10,6 @@ Clean architecture · REST API · Admin Dashboard · Production Ready
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
-![Dashboard Preview](public/images/dashboard-banner.png)
-
 </div>
 
 ---
