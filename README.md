@@ -70,7 +70,7 @@ This is my personal portfolio built entirely from scratch using **Laravel 13**. 
 **Option 1 — Using install.sh (Recommended)**
 
 ```bash
-git clone https://github.com/yourusername/laravel13-portfolio.git
+git clone https://github.com/BhargavKapadiya/laravel13-portfolio.git
 cd laravel13-portfolio
 chmod +x install.sh
 ./install.sh
@@ -80,7 +80,7 @@ chmod +x install.sh
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/laravel13-portfolio.git
+git clone https://github.com/BhargavKapadiya/laravel13-portfolio.git
 cd laravel13-portfolio
 
 # 2. Install PHP dependencies
